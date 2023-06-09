@@ -4,7 +4,7 @@ Wooden Bluetooth speaker is a project I designed in Fusion 360 and showed off in
 
 As I highlighted in the tutorial, the sound box is made from MDF pieces that were cutted off by a laser-cutting machine. The electronics behind is not complicated. There is a list below about every component I bought and how much they cost:
 
-2 - 5W 4ohm speakers - U$6 (2*6 = U$12)
+2 - 5W 4ohm speakers - U$6 (2 * 6 = U$12)
 1 - Bluetooth audio receiver module - U$2
 4 - Li-ion battery cell - U$1.75 (4 * 1.75 = U$7)
 1 - Charging and protection module TP4056 - U$1
