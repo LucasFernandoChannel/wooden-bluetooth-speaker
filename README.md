@@ -1,6 +1,6 @@
 # Wooden Bluetooth speaker
 
-Wooden Bluetooth speaker is a project I designed in Fusion 360 and showed off in [this video](https://www.youtube.com/watch?v=3Eg8U-9ISRQ). If you don't know, Fusion 360 is a powerful software in which you can create 2D and 3D objects, design PCBs, make mechanical simulations, and much more. I definitely recommend you learn about it because it will help you a lot at creating your DIY projects.
+Wooden Bluetooth speaker is a project I designed in Fusion 360 and showed off in [this video](https://www.youtube.com/watch?v=IydXfeP03OU). If you don't know, Fusion 360 is a powerful software in which you can create 2D and 3D objects, design PCBs, make mechanical simulations, and much more. I definitely recommend you learn about it because it will help you a lot at creating your DIY projects.
 
 As I highlighted in the tutorial, the sound box is made from MDF pieces that were cutted off by a laser-cutting machine. The electronics behind is not complicated. There is a list below about every component I bought and how much they cost:
 
@@ -15,6 +15,6 @@ As I highlighted in the tutorial, the sound box is made from MDF pieces that wer
 + 1 - MDF enclosure - U$4
 Total: U$29.95
 
-So for about 30 bucks you can also build a wooden Bluetooth speaker. I believe this project is worth its price because I learned a lot and created something I'll use for a long time. I hope the files available here and [this video](https://www.youtube.com/watch?v=3Eg8U-9ISRQ), in which I explain the step-by-step design and bulding processes, will help you create your own Bluetooth speakers.
+So for about 30 bucks you can also build a wooden Bluetooth speaker. I believe this project is worth its price because I learned a lot and created something I'll use for a long time. I hope the files available here and [this video](https://www.youtube.com/watch?v=IydXfeP03OU), in which I explain the step-by-step design and bulding processes, will help you create your own Bluetooth speakers.
 
 Just to reminder you, the bluetooth-soundbox-3D.f3d file is about the 3D object created on Fusion 360. The bluetooth-soundbox-laser-cutting.dxf is the file you must upload to the laser cutting machine. It contains the 2D drawings of the Bluetooth speaker.
